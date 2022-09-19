@@ -1,0 +1,15 @@
+C:\Users\turka\source\repos\Kurumsal\BTAkademiBootcamp\OOPTemelKavramlar\ObjectANDClass\bin\Debug\net6.0\ObjectANDClass.exe
+C:\Users\turka\source\repos\Kurumsal\BTAkademiBootcamp\OOPTemelKavramlar\ObjectANDClass\bin\Debug\net6.0\ObjectANDClass.deps.json
+C:\Users\turka\source\repos\Kurumsal\BTAkademiBootcamp\OOPTemelKavramlar\ObjectANDClass\bin\Debug\net6.0\ObjectANDClass.runtimeconfig.json
+C:\Users\turka\source\repos\Kurumsal\BTAkademiBootcamp\OOPTemelKavramlar\ObjectANDClass\bin\Debug\net6.0\ObjectANDClass.dll
+C:\Users\turka\source\repos\Kurumsal\BTAkademiBootcamp\OOPTemelKavramlar\ObjectANDClass\bin\Debug\net6.0\ObjectANDClass.pdb
+C:\Users\turka\source\repos\Kurumsal\BTAkademiBootcamp\OOPTemelKavramlar\ObjectANDClass\obj\Debug\net6.0\ObjectANDClass.csproj.AssemblyReference.cache
+C:\Users\turka\source\repos\Kurumsal\BTAkademiBootcamp\OOPTemelKavramlar\ObjectANDClass\obj\Debug\net6.0\ObjectANDClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\turka\source\repos\Kurumsal\BTAkademiBootcamp\OOPTemelKavramlar\ObjectANDClass\obj\Debug\net6.0\ObjectANDClass.AssemblyInfoInputs.cache
+C:\Users\turka\source\repos\Kurumsal\BTAkademiBootcamp\OOPTemelKavramlar\ObjectANDClass\obj\Debug\net6.0\ObjectANDClass.AssemblyInfo.cs
+C:\Users\turka\source\repos\Kurumsal\BTAkademiBootcamp\OOPTemelKavramlar\ObjectANDClass\obj\Debug\net6.0\ObjectANDClass.csproj.CoreCompileInputs.cache
+C:\Users\turka\source\repos\Kurumsal\BTAkademiBootcamp\OOPTemelKavramlar\ObjectANDClass\obj\Debug\net6.0\ObjectANDClass.dll
+C:\Users\turka\source\repos\Kurumsal\BTAkademiBootcamp\OOPTemelKavramlar\ObjectANDClass\obj\Debug\net6.0\refint\ObjectANDClass.dll
+C:\Users\turka\source\repos\Kurumsal\BTAkademiBootcamp\OOPTemelKavramlar\ObjectANDClass\obj\Debug\net6.0\ObjectANDClass.pdb
+C:\Users\turka\source\repos\Kurumsal\BTAkademiBootcamp\OOPTemelKavramlar\ObjectANDClass\obj\Debug\net6.0\ObjectANDClass.genruntimeconfig.cache
+C:\Users\turka\source\repos\Kurumsal\BTAkademiBootcamp\OOPTemelKavramlar\ObjectANDClass\obj\Debug\net6.0\ref\ObjectANDClass.dll
