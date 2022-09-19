@@ -1,0 +1,15 @@
+C:\Users\turka\source\repos\Kurumsal\BTAkademiBootcamp\OOPTemelKavramlar\InheritanceANDPolymorphism\bin\Debug\net6.0\InheritanceANDPolymorphism.exe
+C:\Users\turka\source\repos\Kurumsal\BTAkademiBootcamp\OOPTemelKavramlar\InheritanceANDPolymorphism\bin\Debug\net6.0\InheritanceANDPolymorphism.deps.json
+C:\Users\turka\source\repos\Kurumsal\BTAkademiBootcamp\OOPTemelKavramlar\InheritanceANDPolymorphism\bin\Debug\net6.0\InheritanceANDPolymorphism.runtimeconfig.json
+C:\Users\turka\source\repos\Kurumsal\BTAkademiBootcamp\OOPTemelKavramlar\InheritanceANDPolymorphism\bin\Debug\net6.0\InheritanceANDPolymorphism.dll
+C:\Users\turka\source\repos\Kurumsal\BTAkademiBootcamp\OOPTemelKavramlar\InheritanceANDPolymorphism\bin\Debug\net6.0\InheritanceANDPolymorphism.pdb
+C:\Users\turka\source\repos\Kurumsal\BTAkademiBootcamp\OOPTemelKavramlar\InheritanceANDPolymorphism\obj\Debug\net6.0\InheritanceANDPolymorphism.csproj.AssemblyReference.cache
+C:\Users\turka\source\repos\Kurumsal\BTAkademiBootcamp\OOPTemelKavramlar\InheritanceANDPolymorphism\obj\Debug\net6.0\InheritanceANDPolymorphism.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\turka\source\repos\Kurumsal\BTAkademiBootcamp\OOPTemelKavramlar\InheritanceANDPolymorphism\obj\Debug\net6.0\InheritanceANDPolymorphism.AssemblyInfoInputs.cache
+C:\Users\turka\source\repos\Kurumsal\BTAkademiBootcamp\OOPTemelKavramlar\InheritanceANDPolymorphism\obj\Debug\net6.0\InheritanceANDPolymorphism.AssemblyInfo.cs
+C:\Users\turka\source\repos\Kurumsal\BTAkademiBootcamp\OOPTemelKavramlar\InheritanceANDPolymorphism\obj\Debug\net6.0\InheritanceANDPolymorphism.csproj.CoreCompileInputs.cache
+C:\Users\turka\source\repos\Kurumsal\BTAkademiBootcamp\OOPTemelKavramlar\InheritanceANDPolymorphism\obj\Debug\net6.0\InheritanceANDPolymorphism.dll
+C:\Users\turka\source\repos\Kurumsal\BTAkademiBootcamp\OOPTemelKavramlar\InheritanceANDPolymorphism\obj\Debug\net6.0\refint\InheritanceANDPolymorphism.dll
+C:\Users\turka\source\repos\Kurumsal\BTAkademiBootcamp\OOPTemelKavramlar\InheritanceANDPolymorphism\obj\Debug\net6.0\InheritanceANDPolymorphism.pdb
+C:\Users\turka\source\repos\Kurumsal\BTAkademiBootcamp\OOPTemelKavramlar\InheritanceANDPolymorphism\obj\Debug\net6.0\InheritanceANDPolymorphism.genruntimeconfig.cache
+C:\Users\turka\source\repos\Kurumsal\BTAkademiBootcamp\OOPTemelKavramlar\InheritanceANDPolymorphism\obj\Debug\net6.0\ref\InheritanceANDPolymorphism.dll
