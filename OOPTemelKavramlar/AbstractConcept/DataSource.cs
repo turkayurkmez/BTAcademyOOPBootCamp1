@@ -20,7 +20,7 @@
 
         public override void Write(string data)
         {
-            throw new NotImplementedException();
+            Console.WriteLine($"{data}, XML kaynağına yazıldı");
         }
     }
 
@@ -33,7 +33,7 @@
 
         public override void Write(string data)
         {
-            throw new NotImplementedException();
+            Console.WriteLine($"{data}, DB kaynağına yazıldı");
         }
     }
 
@@ -46,9 +46,18 @@
 
         public override void Write(string data)
         {
-            throw new NotImplementedException();
+            Console.WriteLine($"{data}, Excel kaynağına yazıldı");
         }
     }
 
 
+    public class DataSourceWriter
+    {
+
+        public void WriteData(string data, DataSource dataSource)
+        {
+            dataSource.GetConfig();
+            dataSource.Write(data);
+        }
+    }
 }

@@ -1,0 +1,5 @@
+C:\Users\turka\source\repos\Kurumsal\BTAkademiBootcamp\OOPTemelKavramlar\InterfaceNedir\obj\Debug\net6.0\InterfaceNedir.csproj.AssemblyReference.cache
+C:\Users\turka\source\repos\Kurumsal\BTAkademiBootcamp\OOPTemelKavramlar\InterfaceNedir\obj\Debug\net6.0\InterfaceNedir.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\turka\source\repos\Kurumsal\BTAkademiBootcamp\OOPTemelKavramlar\InterfaceNedir\obj\Debug\net6.0\InterfaceNedir.AssemblyInfoInputs.cache
+C:\Users\turka\source\repos\Kurumsal\BTAkademiBootcamp\OOPTemelKavramlar\InterfaceNedir\obj\Debug\net6.0\InterfaceNedir.AssemblyInfo.cs
+C:\Users\turka\source\repos\Kurumsal\BTAkademiBootcamp\OOPTemelKavramlar\InterfaceNedir\obj\Debug\net6.0\InterfaceNedir.csproj.CoreCompileInputs.cache

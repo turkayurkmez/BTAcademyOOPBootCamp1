@@ -1,0 +1,15 @@
+C:\Users\turka\source\repos\Kurumsal\BTAkademiBootcamp\OOPTemelKavramlar\AbstractConcept\bin\Debug\net6.0\AbstractConcept.exe
+C:\Users\turka\source\repos\Kurumsal\BTAkademiBootcamp\OOPTemelKavramlar\AbstractConcept\bin\Debug\net6.0\AbstractConcept.deps.json
+C:\Users\turka\source\repos\Kurumsal\BTAkademiBootcamp\OOPTemelKavramlar\AbstractConcept\bin\Debug\net6.0\AbstractConcept.runtimeconfig.json
+C:\Users\turka\source\repos\Kurumsal\BTAkademiBootcamp\OOPTemelKavramlar\AbstractConcept\bin\Debug\net6.0\AbstractConcept.dll
+C:\Users\turka\source\repos\Kurumsal\BTAkademiBootcamp\OOPTemelKavramlar\AbstractConcept\bin\Debug\net6.0\AbstractConcept.pdb
+C:\Users\turka\source\repos\Kurumsal\BTAkademiBootcamp\OOPTemelKavramlar\AbstractConcept\obj\Debug\net6.0\AbstractConcept.csproj.AssemblyReference.cache
+C:\Users\turka\source\repos\Kurumsal\BTAkademiBootcamp\OOPTemelKavramlar\AbstractConcept\obj\Debug\net6.0\AbstractConcept.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\turka\source\repos\Kurumsal\BTAkademiBootcamp\OOPTemelKavramlar\AbstractConcept\obj\Debug\net6.0\AbstractConcept.AssemblyInfoInputs.cache
+C:\Users\turka\source\repos\Kurumsal\BTAkademiBootcamp\OOPTemelKavramlar\AbstractConcept\obj\Debug\net6.0\AbstractConcept.AssemblyInfo.cs
+C:\Users\turka\source\repos\Kurumsal\BTAkademiBootcamp\OOPTemelKavramlar\AbstractConcept\obj\Debug\net6.0\AbstractConcept.csproj.CoreCompileInputs.cache
+C:\Users\turka\source\repos\Kurumsal\BTAkademiBootcamp\OOPTemelKavramlar\AbstractConcept\obj\Debug\net6.0\AbstractConcept.dll
+C:\Users\turka\source\repos\Kurumsal\BTAkademiBootcamp\OOPTemelKavramlar\AbstractConcept\obj\Debug\net6.0\refint\AbstractConcept.dll
+C:\Users\turka\source\repos\Kurumsal\BTAkademiBootcamp\OOPTemelKavramlar\AbstractConcept\obj\Debug\net6.0\AbstractConcept.pdb
+C:\Users\turka\source\repos\Kurumsal\BTAkademiBootcamp\OOPTemelKavramlar\AbstractConcept\obj\Debug\net6.0\AbstractConcept.genruntimeconfig.cache
+C:\Users\turka\source\repos\Kurumsal\BTAkademiBootcamp\OOPTemelKavramlar\AbstractConcept\obj\Debug\net6.0\ref\AbstractConcept.dll

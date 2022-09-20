@@ -3,15 +3,17 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.3.32825.248
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ObjectANDClass", "ObjectANDClass\ObjectANDClass.csproj", "{44AB4719-BCA0-4ED9-85FC-CC7D758413D1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ObjectANDClass", "ObjectANDClass\ObjectANDClass.csproj", "{44AB4719-BCA0-4ED9-85FC-CC7D758413D1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Encapsulation", "Encapsulation\Encapsulation.csproj", "{F0AA2F97-17D2-45D8-A0CF-EE5742020213}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Encapsulation", "Encapsulation\Encapsulation.csproj", "{F0AA2F97-17D2-45D8-A0CF-EE5742020213}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Constructors", "Constructors\Constructors.csproj", "{A4D9552D-9173-48DC-82C5-46B9B63409FA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Constructors", "Constructors\Constructors.csproj", "{A4D9552D-9173-48DC-82C5-46B9B63409FA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InheritanceANDPolymorphism", "InheritanceANDPolymorphism\InheritanceANDPolymorphism.csproj", "{E5C619F3-6806-4B80-AEB8-1D534A84B080}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InheritanceANDPolymorphism", "InheritanceANDPolymorphism\InheritanceANDPolymorphism.csproj", "{E5C619F3-6806-4B80-AEB8-1D534A84B080}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AbstractConcept", "AbstractConcept\AbstractConcept.csproj", "{7CA99ED5-8073-44FE-85F7-9151EAAEF91B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AbstractConcept", "AbstractConcept\AbstractConcept.csproj", "{7CA99ED5-8073-44FE-85F7-9151EAAEF91B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterfaceNedir", "InterfaceNedir\InterfaceNedir.csproj", "{941CF8B9-8690-4BF4-BA29-24EBDCABF1E3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{7CA99ED5-8073-44FE-85F7-9151EAAEF91B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7CA99ED5-8073-44FE-85F7-9151EAAEF91B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7CA99ED5-8073-44FE-85F7-9151EAAEF91B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{941CF8B9-8690-4BF4-BA29-24EBDCABF1E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{941CF8B9-8690-4BF4-BA29-24EBDCABF1E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{941CF8B9-8690-4BF4-BA29-24EBDCABF1E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{941CF8B9-8690-4BF4-BA29-24EBDCABF1E3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
