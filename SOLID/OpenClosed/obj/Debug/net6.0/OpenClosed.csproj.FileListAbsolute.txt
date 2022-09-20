@@ -1,0 +1,15 @@
+C:\Users\turka\source\repos\Kurumsal\BTAkademiBootcamp\SOLID\OpenClosed\bin\Debug\net6.0\OpenClosed.exe
+C:\Users\turka\source\repos\Kurumsal\BTAkademiBootcamp\SOLID\OpenClosed\bin\Debug\net6.0\OpenClosed.deps.json
+C:\Users\turka\source\repos\Kurumsal\BTAkademiBootcamp\SOLID\OpenClosed\bin\Debug\net6.0\OpenClosed.runtimeconfig.json
+C:\Users\turka\source\repos\Kurumsal\BTAkademiBootcamp\SOLID\OpenClosed\bin\Debug\net6.0\OpenClosed.dll
+C:\Users\turka\source\repos\Kurumsal\BTAkademiBootcamp\SOLID\OpenClosed\bin\Debug\net6.0\OpenClosed.pdb
+C:\Users\turka\source\repos\Kurumsal\BTAkademiBootcamp\SOLID\OpenClosed\obj\Debug\net6.0\OpenClosed.csproj.AssemblyReference.cache
+C:\Users\turka\source\repos\Kurumsal\BTAkademiBootcamp\SOLID\OpenClosed\obj\Debug\net6.0\OpenClosed.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\turka\source\repos\Kurumsal\BTAkademiBootcamp\SOLID\OpenClosed\obj\Debug\net6.0\OpenClosed.AssemblyInfoInputs.cache
+C:\Users\turka\source\repos\Kurumsal\BTAkademiBootcamp\SOLID\OpenClosed\obj\Debug\net6.0\OpenClosed.AssemblyInfo.cs
+C:\Users\turka\source\repos\Kurumsal\BTAkademiBootcamp\SOLID\OpenClosed\obj\Debug\net6.0\OpenClosed.csproj.CoreCompileInputs.cache
+C:\Users\turka\source\repos\Kurumsal\BTAkademiBootcamp\SOLID\OpenClosed\obj\Debug\net6.0\OpenClosed.dll
+C:\Users\turka\source\repos\Kurumsal\BTAkademiBootcamp\SOLID\OpenClosed\obj\Debug\net6.0\refint\OpenClosed.dll
+C:\Users\turka\source\repos\Kurumsal\BTAkademiBootcamp\SOLID\OpenClosed\obj\Debug\net6.0\OpenClosed.pdb
+C:\Users\turka\source\repos\Kurumsal\BTAkademiBootcamp\SOLID\OpenClosed\obj\Debug\net6.0\OpenClosed.genruntimeconfig.cache
+C:\Users\turka\source\repos\Kurumsal\BTAkademiBootcamp\SOLID\OpenClosed\obj\Debug\net6.0\ref\OpenClosed.dll
