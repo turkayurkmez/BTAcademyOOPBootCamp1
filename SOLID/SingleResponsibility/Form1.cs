@@ -32,6 +32,24 @@
             var message = rows > 0 ? "İşlem başarılı" : "Başarısız";
             MessageBox.Show(message);
 
+            DateTime dateTime = new DateTime();
+
+            Point point = new Point();
+            point.X = 8;
+
+            Point p2 = point;
+            MessageBox.Show(p2.X.ToString());
+
+        }
+    }
+
+
+    public struct Point : IComparable<Point>
+    {
+        public int X { get; set; }
+        public int CompareTo(Point other)
+        {
+            throw new NotImplementedException();
         }
     }
 }
